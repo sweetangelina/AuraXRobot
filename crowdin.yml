@@ -1,0 +1,3 @@
+files:
+  - source: AuraX/localization/en.yaml
+    translation: /**/AuraX/localization/%locale_with_underscore%.yaml
