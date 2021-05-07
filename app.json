@@ -8,7 +8,7 @@
     "telegram-AuraX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamAuraX/AuraXRobot",
+  "repository": "https://github.com/AuraXNetwork/AuraXRobot",
   "website": "AuraXRobotproject.studio",
   "success_url": "t.me/AuraXUpdates",
   "buildpacks": [
@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamAuraX/AuraXRobot",
+      "value": "https://github.com/AuraXNetwork/AuraXRobot",
       "required": false  
     },
     "API_PORT": {

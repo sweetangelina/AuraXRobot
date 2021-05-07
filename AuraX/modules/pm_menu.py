@@ -77,7 +77,7 @@ async def get_start_func(message, strings, edit=False):
     buttons.add(
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
         InlineKeyboardButton(
-            strings["btn_source"], url="https://github.com/TeamAuraX/"
+            strings["btn_source"], url="https://github.com/AuraXNetwork/"
         ),
     )
     buttons.add(
